@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Abu Shaikh Nibir  
-🚀 Software Engineer | 🤖 Highly Interested in ML & AI | ⚽ Football Enthusiast 
+🚀 Software Engineer | 🤖 Highly Interested in ML & AI 
 
 
 ## 🌟 About Me
